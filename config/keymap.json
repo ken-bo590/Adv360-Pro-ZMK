@@ -7,7 +7,8 @@
     "keypad",
     "fn",
     "mod",
-    "NUM"
+    "NUM",
+    "SYMBOL"
   ],
   "layers": [
     [
@@ -40,6 +41,12 @@
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
+    ], [
+       "&trans",   "&trans", "&trans",   "&trans",   "&trans",    "&trans",           "&trans",                                                             "&trans",    "&trans",   "&trans",    "&trans",   "&trans",   "&trans", "&trans",
+       "&trans", "&kp EXCL", "&kp AT", "&kp HASH", "&kp DLLR", "&kp PRCNT",           "&trans",                                                             "&trans", "&kp CARET", "&kp AMPS", "&kp ASTRK", "&kp LPAR", "&kp RPAR", "&trans",
+       "&trans",   "&trans", "&trans",   "&trans",   "&trans",    "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",    "&trans",   "&trans",    "&trans",   "&trans",   "&trans", "&trans",
+       "&trans",   "&trans", "&trans",   "&trans",   "&trans",    "&trans",                               "&trans",                     "&trans",                        "&trans",   "&trans",    "&trans",   "&trans",   "&trans", "&trans",
+       "&trans",   "&trans", "&trans",   "&trans",   "&trans",                        "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                "&trans",    "&trans",   "&trans",   "&trans", "&trans"
     ]
   ]
 }
